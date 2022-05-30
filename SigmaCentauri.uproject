@@ -12,16 +12,19 @@
 			]
 		},
 		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		},
 		{
-			"Name": "NiagaraFluids",
+			"Name": "Metasound",
+			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "ActorPalette",
 			"Enabled": true
 		}
 	]
